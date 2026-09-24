@@ -100,16 +100,7 @@ All models were trained after feature enhancement and imbalance correction, yiel
 
 ## Recommendation
 
-> ✅ **Implement the Decision Tree Classifier.**
-
-The Decision Tree Classifier is recommended for production due to:
-
-- **Greater accuracy** — achieved the highest AUC ROC among all models tested
-- **Interpretability** — decision paths can be visualized and explained to stakeholders and regulators
-- **Practical suitability** — transparent rules make it easy to justify individual lending decisions
-
-This makes it the best choice for determining whether to lend money to specific borrowers.
-
+Random forest is recommended for this classification model.
 ---
 
 ## File Structure
