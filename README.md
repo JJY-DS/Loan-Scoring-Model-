@@ -100,7 +100,7 @@ All models were trained after feature enhancement and imbalance correction, yiel
 
 ## Recommendation
 
-Random forest is recommended for this classification model.
+** Decision tree is recommended for this classification model.**
 ---
 
 ## File Structure
